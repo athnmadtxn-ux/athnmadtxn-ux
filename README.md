@@ -1,6 +1,6 @@
-## Hola there 👋
 
-<h1>Hola 👋, I'm </h1>
+
+<h1>Hola 👋, I'm ENNA</h1>
 <p>A passionate CS Student from Northeast </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
